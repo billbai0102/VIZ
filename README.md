@@ -1,8 +1,9 @@
-﻿# VIZ, a monetary data visualization platform for reducing the gap between retail and institutional investors, as well as democratizing financial information.
+﻿# VIZ
+## A monetary data visualization platform for reducing the gap between retail and institutional investors, as well as democratizing financial information.
 ## Inspiration
 We noticed a lack of financial literacy and understanding in novice investors further increasing the gap between institutional and retail investors. We realized that with the proper resources and engagement, we can make financial data analysis far less intimidating.
 
-## What it does.
+## What it does
 VIZ is a platform on which novice investors can understand financial statements through visual mediums and experienced investors can share their take on balance sheets, income statements, etc. This allows for newer investors to gain a deeper understanding of good and bad signs when looking at such data, and those with experience to gain a following.
 
 ## How we built it
