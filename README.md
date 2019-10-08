@@ -23,15 +23,15 @@ We learned a lot about Python, Flask, and web development.
 In the future, we plan on planning out front-end, back-end, and connecting the two before writing a single line of code! Seriously, having to redesign our whole presentation was painful.
 
 ## Built With
-ajax
-css3
-flask
-html5
-javascript
-jquery
-pandas
-plotly
-python
+###### ajax
+###### css3
+###### flask
+###### html5
+###### javascript
+###### jquery
+###### pandas
+###### plotly
+###### python
   
   *Note: The website is found in GoldenHack/websites/templates/index.html* </br>
   *To actually view the program, you'll have to run app.py, which will open in your localhost:8000, or 127.0.0.1:8000*
