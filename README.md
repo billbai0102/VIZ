@@ -34,3 +34,4 @@ plotly
 python
   
   *Note: The website is found in GoldenHack/websites/templates/index.html*
+  *To actually view the program, you'll have to run app.py, which will open in your localhost:8000, or 127.0.0.1:8000
