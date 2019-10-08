@@ -1,5 +1,6 @@
 ﻿# VIZ
-## A monetary data visualization platform for reducing the gap between retail and institutional investors, as well as democratizing financial information.
+### A monetary data visualization platform for reducing the gap between retail and institutional investors, as well as democratizing financial information.
+
 ## Inspiration
 We noticed a lack of financial literacy and understanding in novice investors further increasing the gap between institutional and retail investors. We realized that with the proper resources and engagement, we can make financial data analysis far less intimidating.
 
@@ -21,10 +22,9 @@ We learned a lot about Python, Flask, and web development.
 ## What's next for VIZ
 In the future, we plan on planning out front-end, back-end, and connecting the two before writing a single line of code! Seriously, having to redesign our whole presentation was painful.
 
-Built With
+## Built With
 ajax
 css3
-csv
 flask
 html5
 javascript
@@ -32,6 +32,5 @@ jquery
 pandas
 plotly
 python
-webapp
   
   *Note: The website is found in GoldenHack/websites/templates/index.html*
