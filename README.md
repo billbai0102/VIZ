@@ -1,5 +1,5 @@
 ﻿# VIZ
-### A monetary data visualization platform for reducing the gap between retail and institutional investors, as well as democratizing financial information.
+#### A monetary data visualization platform for reducing the gap between retail and institutional investors, as well as democratizing financial information.
 
 ## Inspiration
 We noticed a lack of financial literacy and understanding in novice investors further increasing the gap between institutional and retail investors. We realized that with the proper resources and engagement, we can make financial data analysis far less intimidating.
@@ -34,4 +34,4 @@ plotly
 python
   
   *Note: The website is found in GoldenHack/websites/templates/index.html*
-  *To actually view the program, you'll have to run app.py, which will open in your localhost:8000, or 127.0.0.1:8000
+  *To actually view the program, you'll have to run app.py, which will open in your localhost:8000, or 127.0.0.1:8000*
